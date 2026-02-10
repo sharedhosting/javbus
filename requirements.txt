@@ -1,4 +1,5 @@
 requests
+lxml
 rsa
 beautifulsoup4
 cryptography
